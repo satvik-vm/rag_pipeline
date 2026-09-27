@@ -2,8 +2,8 @@
 A basic rag pipeline
 
 # Models
-Embeddings => [jinaai/jina-clip-v2](https://huggingface.co/jinaai/jina-clip-v2)
-Ranking => [cross-encoder/ms-marco-MiniLM-L6-v2](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
+Embeddings => [jinaai/jina-clip-v2](https://huggingface.co/jinaai/jina-clip-v2)  
+Ranking => [cross-encoder/ms-marco-MiniLM-L6-v2](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)  
 LLM => [google/gemma-3-4b-it](https://huggingface.co/google/gemma-3-4b-it)
 
 # How to Use

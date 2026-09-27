@@ -1,0 +1,4 @@
+data/
+ingest_data/
+models/
+.env
